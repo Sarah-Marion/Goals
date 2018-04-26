@@ -5,5 +5,5 @@
 
 export const environment = {
   production: false,
-  apiUrl:"http://talaikis.com/api/quotes/random/"
+  apiUrl:"https://talaikis.com/api/quotes/random/"
 };

@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl:"http://talaikis.com/api/quotes/random/"
+  apiUrl:"https://talaikis.com/api/quotes/random/"
 };
